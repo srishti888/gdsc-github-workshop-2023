@@ -30,6 +30,8 @@ Follow the instructions in order:
 ```
 6. To get your `PICTURE_CDN_URL` head over to https://imgur.com/ and upload one of your nice looking image 😎 and get's it's url. 
 
+
+
 7. Now add the above filled block to the `data` array in `data.json` file
    
 8. Stage your changes with commend `git add data.json`
